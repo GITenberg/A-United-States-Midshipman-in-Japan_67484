@@ -1,0 +1,44 @@
+_repo: A-United-States-Midshipman-in-Japan_67484
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+creator:
+  author:
+    agent_name: Stirling, Yates
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '54159'
+    url: http://www.gutenberg.org/2009/agents/54159
+    wikipedia: https://en.wikipedia.org/wiki/Yates_Stirling_Jr.
+description: ''
+gutenberg_issued: '2022-02-24'
+identifiers:
+  gutenberg: '67484'
+  lccn: '11013979'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hxdi6y&view=1up&seq=1&skin=2021
+pgterms:marc905: 20220119170201stirling
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, with special thanks to the Research
+  Manager at the St. Louis Public Library, Rare Books Collection, St. Louis, Missouri,
+  for providing the high quality scan of the original cover and the frontispiece,
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was made using scans of public domain works put online by Harvard University Library's
+  Open Collections Program.)
+publication_note: United States :Penn Publishing Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- GITenberg
+title: A United States Midshipman in Japan
+url: http://www.gutenberg.org/ebooks/67484
